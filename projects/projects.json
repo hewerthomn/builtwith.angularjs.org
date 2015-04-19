@@ -3668,6 +3668,27 @@
         "Responsive",
         "RESTful"
       ]
+    },
+    {
+      "name": "getLonLat",
+      "thumb": "getlonlat/thumb.png",
+      "desc": "Get the Longitude (X-axis) and Latitude (Y-axis) from a place in the world. Can search the place by name, using Geolocation or GeoIP to get location. Can convert to another projections. Very useful when working with geo applications.",
+      "url": "http://hewertho.mn",
+      "info": "http://hewertho.mn/projects/getlonlat",
+      "src": "https://github.com/hewerthomn/getlonlat",
+      "submitter": "hewerthomn",
+      "submissionDate": "2015-04-18",
+      "tags": [
+        "Production",
+        "Productivity",
+        "Utility",
+        "Geotool",
+        "Map",
+        "Geolocation",
+        "No jQuery",
+        "OpenLayers",
+        "Open Source"
+      ]
     }
 
   ]
